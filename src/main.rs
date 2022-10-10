@@ -1,8 +1,9 @@
 fn test() -> bool {
-   true
+    true
 }
 
 fn main() {
+    test();
     println!("Hello, world!");
 }
 
